@@ -31,7 +31,7 @@
 <br>
 <br>
 <a href="https://github.com/Ruban-Edward">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban-Edward&theme=dracula&line_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ruban-Edward&repo=Ruban-Edward&theme=dracula&line_langs_below=1" />
 </a>
 <a href="https://github.com/Ruban-Edward">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruban-Edward&show_icons=true&theme=dracula&line_height=27" alt="Ruban's github stats"/>
