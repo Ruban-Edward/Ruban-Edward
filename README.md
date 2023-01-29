@@ -30,11 +30,11 @@
  
 <br>
 <br>
-<a href="https://github.com/Ruban-Edward">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ruban-Edward&repo=Ruban-Edward&theme=dracula&line_langs_below=1" />
+<a href="https://github.com/Ruban-Edward/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruban-Edward&layout=compact&theme=merko" />
 </a>
 <a href="https://github.com/Ruban-Edward">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruban-Edward&show_icons=true&theme=dracula&line_height=27" alt="Ruban's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruban-Edward&show_icons=true&theme=merko&line_height=27" alt="Ruban's github stats"/>
 </a>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruban-Edward&theme=dracula" alt="rubanedward" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruban-Edward&theme=merko" alt="rubanedward" /></p>
