@@ -1,7 +1,6 @@
 <img align="center" alt="Coding" width="1000px" src="https://www.itfms.com/img/gif/addon.gif"> 
 
 <h1 align="center">Hi 👋, I'm Ruban Edward</h1>
-<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ruban-Edward&label=Profile%20views&color=0e75b6&style=flat" alt="rubanedward" /> </p>
