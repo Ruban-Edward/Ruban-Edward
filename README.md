@@ -36,4 +36,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruban-Edward&show_icons=true&theme=merko&line_height=27" alt="Ruban's github stats"/>
 </a>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruban-Edward&theme=merko" alt="rubanedward" /></p>
+<p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ruban-Edward&theme=merko" alt="GitHub Streak" /></a></p>
