@@ -7,7 +7,7 @@
 
 - 🔭 I’m a Software Developer @ [Infiniti Software Solutions](https://www.infinitisoftware.net/)
 
-- 🌱 I’m currently working with **Php, Mysql**
+- 🌱 I’m currently working with **Php, Mysql, Angular**
 
 - 💬 Ask me about **Java , Php, Frontend**
 
