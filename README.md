@@ -120,16 +120,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruban-Edward&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🏆 GitHub Trophies
 
 <div align="center">
@@ -166,7 +156,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/ruban-edward/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -178,7 +168,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_WEBSITE">
+<a href="[https://YOUR_PORTFOLIO_WEBSITE](https://ruban-edward.github.io/)">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
