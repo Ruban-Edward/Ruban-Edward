@@ -168,7 +168,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="[https://YOUR_PORTFOLIO_WEBSITE](https://ruban-edward.github.io/)">
+<a href="https://ruban-edward.github.io">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
