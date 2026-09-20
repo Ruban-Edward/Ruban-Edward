@@ -2,10 +2,7 @@ name: Update GitHub Trophies
 
 on:
   schedule:
-    # Run once every day at 00:00 UTC
     - cron: "0 0 * * *"
-
-  # Allows you to run it manually
   workflow_dispatch:
 
 jobs:
@@ -22,7 +19,7 @@ jobs:
       - name: Generate GitHub Trophy
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: 'username=Ruban-Edward&theme=tokyonight&column=7&row=2&no-frame=true&no-bg=true&rank=-UNKNOWN&margin-w=10'
+          options: 'username=Ruban-Edward&theme=tokyonight&column=4&row=2&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15'
           path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -30,9 +27,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add trophy.svg
-
           git diff --cached --quiet || git commit -m "chore: update GitHub trophies"
-
           git push
