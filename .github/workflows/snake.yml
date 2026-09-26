@@ -14,7 +14,6 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk/svg-only@v3
