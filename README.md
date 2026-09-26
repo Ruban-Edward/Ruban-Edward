@@ -36,6 +36,33 @@ Software Engineer at **Infiniti Software Solutions**, based in Chennai, India. F
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=ruban-edward&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
+</p>
+
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ruban-edward/github-snake/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ruban-edward/github-snake/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ruban-edward/github-snake/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
 ### Connect
 
 | | |
