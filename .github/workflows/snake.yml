@@ -23,9 +23,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ruban-Edward
+          # color_dots = 5 levels: empty cell -> most contributions
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#d4a017&color_dots=#e2e8f0,#bae6fd,#7dd3fc,#0ea5e9,#0369a1
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#e8c46a&color_dots=#1b2638,#14527a,#0284c7,#38bdf8,#bae6fd
 
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v5
