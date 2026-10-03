@@ -1212,18 +1212,20 @@
   </defs>
 
   <!-- BACKGROUND (matches hero) -->
-  <rect width="1200" height="746" fill="#070b12" />
-  <rect width="1200" height="746" fill="url(#grid)" opacity=".55" />
-  <rect width="1200" height="746" fill="url(#gl)" />
-  <rect width="1200" height="746" fill="url(#gr)" />
-  <rect width="1200" height="746" fill="url(#gw)" />
-  <rect width="1200" height="746" fill="url(#vg)" />
-  <rect x="12" y="12" width="1176" height="722" rx="22" fill="none" stroke="#1e2a3d" />
-  <g stroke="#38bdf8" stroke-opacity=".55" fill="none" stroke-width="1.2">
-    <path d="M30 52V30H52" />
-    <path d="M1170 52V30H1148" />
-    <path d="M30 694v22h22" />
-    <path d="M1170 694v22h-22" />
+  <g opacity="0">
+    <rect width="1200" height="746" fill="#070b12" />
+    <rect width="1200" height="746" fill="url(#grid)" opacity=".55" />
+    <rect width="1200" height="746" fill="url(#gl)" />
+    <rect width="1200" height="746" fill="url(#gr)" />
+    <rect width="1200" height="746" fill="url(#gw)" />
+    <rect width="1200" height="746" fill="url(#vg)" />
+    <rect x="12" y="12" width="1176" height="722" rx="22" fill="none" stroke="#1e2a3d" />
+    <g stroke="#38bdf8" stroke-opacity=".55" fill="none" stroke-width="1.2">
+      <path d="M30 52V30H52" />
+      <path d="M1170 52V30H1148" />
+      <path d="M30 694v22h22" />
+      <path d="M1170 694v22h-22" />
+    </g>
   </g>
 
   <!-- HEADERS -->
@@ -1497,7 +1499,7 @@
     <rect class="sweep" x="0" y="53" width="90" height="2" fill="url(#sweepG)" style="animation-delay:6s" />
   </g>
 
-  <g>
+  <g opacity="0">
     <rect x="162" y="624" width="300" height="28" rx="14" fill="#0d1522" fill-opacity=".8" stroke="#33445f" />
     <text x="312" y="642.5" text-anchor="middle" class="mono" font-size="10" letter-spacing="2.4" fill="#94a3b8">
       <tspan fill="#7dd3fc" font-weight="700">BUILD</tspan> → <tspan fill="#7dd3fc" font-weight="700">DEPLOY</tspan> →
