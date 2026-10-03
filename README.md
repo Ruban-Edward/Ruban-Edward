@@ -50,21 +50,35 @@
   </picture>
 </p>
 
----
-
-### Connect
-
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="connect/heading-dark.svg">
+    <img src="connect/heading-light.svg" alt="Let's Connect" height="22">
+  </picture>
+</p>
 <p align="center">
   <a href="https://github.com/Ruban-Edward">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="connect/github-dark.svg">
+      <img src="connect/github-light.svg" alt="GitHub" height="64">
+    </picture>
   </a>
   <a href="https://www.linkedin.com/in/ruban-edward/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="connect/linkedin-dark.svg">
+      <img src="connect/linkedin-light.svg" alt="LinkedIn" height="64">
+    </picture>
   </a>
   <a href="https://ruban-edward.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-167D72?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="connect/portfolio-dark.svg">
+      <img src="connect/portfolio-light.svg" alt="Portfolio" height="64">
+    </picture>
   </a>
   <a href="mailto:rubanedward769@gmail.com">
-    <img src="https://img.shields.io/badge/Email-BB3A32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="connect/email-dark.svg">
+      <img src="connect/email-light.svg" alt="Email" height="64">
+    </picture>
   </a>
 </p>
