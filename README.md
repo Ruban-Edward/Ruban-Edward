@@ -31,9 +31,9 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://gh-readme-profile.vercel.app/api?username=ruban-edward&hide=forks,prs_merged,issues,contributed&bg_color=0c1726&title_color=e2f1ff&text_color=cfe0f2&icon_color=38bdf8&border_color=1d4568">
+      srcset="https://gh-readme-profile.vercel.app/api?username=ruban-edward&hide=forks%2Cprs_merged%2Cissues%2Ccontributed&bg_color=0c1726&title_color=e2f1ff&text_color=cfe0f2&icon_color=38bdf8&border_color=1d4568">
     <img
-      src="https://gh-readme-profile.vercel.app/api?username=ruban-edward&hide=forks,prs_merged,issues,contributed&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=0284c7&border_color=dbeafe"
+      src="https://gh-readme-profile.vercel.app/api?username=ruban-edward&hide=forks%2Cprs_merged%2Cissues%2Ccontributed&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=0284c7&border_color=dbeafe"
       alt="GitHub profile statistics">
   </picture>
 </p>
