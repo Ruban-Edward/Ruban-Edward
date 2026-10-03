@@ -10,9 +10,19 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./about-life.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./about-life-light.svg">
+    <img src="./about-life.svg" alt="Hi there, I'm Ruban Edward. Software Developer - Web Developer. B.Tech, India">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./stack.svg">
     <source media="(prefers-color-scheme: light)" srcset="./stack-light.svg">
-    <img src="./main.svg" alt="Hi there, I'm Ruban Edward. Software Developer - Web Developer. B.Tech, India">
+    <img src="./stack.svg" alt="Hi there, I'm Ruban Edward. Software Developer - Web Developer. B.Tech, India">
   </picture>
 </p>
 
