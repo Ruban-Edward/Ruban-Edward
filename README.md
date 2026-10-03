@@ -22,16 +22,28 @@
   </picture>
 </p>
 
----
-
-## 📊 GitHub Activity
-
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="connect/activity-dark.svg">
+    <img src="connect/activity-light.svg" alt="Let's Connect" height="22">
+  </picture>
+</p>
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=ruban-edward&hide=forks,prs_merged,issues,contributed&theme=dark" alt="GitHub profile statistics">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://gh-readme-profile.vercel.app/api?username=ruban-edward&hide=forks,prs_merged,issues,contributed&bg_color=0c1726&title_color=e2f1ff&text_color=cfe0f2&icon_color=38bdf8&border_color=1d4568">
+    <img
+      src="https://gh-readme-profile.vercel.app/api?username=ruban-edward&hide=forks,prs_merged,issues,contributed&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=0284c7&border_color=dbeafe"
+      alt="GitHub profile statistics">
+  </picture>
 </p>
 
-<h2 align="center">Contribution Activity</h2>
-
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="connect/contribution-dark.svg">
+    <img src="connect/contribution-light.svg" alt="Let's Connect" height="22">
+  </picture>
+</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruban-Edward/Ruban-Edward/output/github-contribution-grid-snake-dark.svg">
