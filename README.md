@@ -51,6 +51,13 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ruban-edward&amp;background=0c1726&amp;border=1d4568&amp;ring=38bdf8&amp;fire=e8c46a&amp;currStreakLabel=e2f1ff&amp;sideLabels=cfe0f2&amp;currStreakNum=e2f1ff&amp;sideNums=cfe0f2&amp;dates=7dd3fc&amp;stroke=1d4568">
+    <img src="https://streak-stats.demolab.com?user=ruban-edward&amp;background=ffffff&amp;border=dbeafe&amp;ring=0284c7&amp;fire=d4a017&amp;currStreakLabel=0f172a&amp;sideLabels=475569&amp;currStreakNum=0f172a&amp;sideNums=475569&amp;dates=0284c7&amp;stroke=dbeafe" alt="GitHub streak statistics">
+  </picture>
+</p>
+
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="connect/heading-dark.svg">
